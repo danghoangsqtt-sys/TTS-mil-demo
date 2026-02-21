@@ -1,0 +1,7 @@
+{
+  "name": "SQTT Smart Broadcast v1.1",
+  "description": "Ứng dụng chuyển đổi văn bản thành giọng nói chuyên dụng cho quân đội, hỗ trợ bảo mật và đa vùng miền.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
